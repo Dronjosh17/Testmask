@@ -1,0 +1,16 @@
+---
+# Heads costs
+money.zombie: 5000000
+money.issuchitel: 15000000
+money.dragon: 20000000
+money.creeper: 1000000
+
+# Heads Bough
+msg.shop.zombie: "§aYou managed to buy §1Zombie Mask"
+msg.shop.issuchitel: "§aYou managed to buy §1Wither Skeleton Mask"
+msg.shop.dragon: "§aYou managed to buy §1Dragon Mask"
+msg.shop.creeper: "§aYou managed to buy §1Creeper"
+
+# Dont have money
+msg.no-money: "§cYou don't have enough money."
+...
